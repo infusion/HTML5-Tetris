@@ -290,7 +290,7 @@
         ], [
             0.2, // probability
             1, // rotatable
-            [255, 255, 255], // white - the haxx0r one
+            [255, 0, 255], // white - the haxx0r one
             [-1, 1, 0, 1, 1, 1, 1, 0, 0, -1]
         ], [
             1.0, // probability
@@ -299,7 +299,7 @@
             [-1, -1, -1, 0, 0, 0, 1, 0]
         ], [
             0.8, // probability
-            0, // rotatable
+            1, // rotatable
             [255, 255, 0], // yellow
             [0, 0, 1, 0, 1, 1, 0, 1]
         ]/*, [
