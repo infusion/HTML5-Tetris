@@ -1,6 +1,6 @@
 # HTML5 Tetris
 
-Has the world ever seen such a thing? [**Tetris in HTML5!!!**](http://www.xarg.org/project/tetris/) Admittedly, tetris isn't as cool as [2048](http://gabrielecirulli.github.io/2048/) nowadays. However, tetris has some very interesting problems to study. More can be found [here](http://www.colinfahey.com/tetris/tetris.html).
+Has the world ever seen such a thing? [**Tetris in HTML5!!!**](https://raw.org/demo/html5-tetris-with-ai/) Admittedly, tetris isn't as cool as [2048](http://gabrielecirulli.github.io/2048/) nowadays. However, tetris has some very interesting problems to study. More can be found [here](http://www.colinfahey.com/tetris/tetris.html).
 
 My focus was on implementing *optimal* algorithms, an Tetris AI and playing around with some new web-technologies. The features of Tetris include:
 
